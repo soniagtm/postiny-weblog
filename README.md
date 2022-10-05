@@ -1,4 +1,4 @@
-# Postiny Web Blog Application
+# Postiny Weblog Application
 
 ![image](Backend/uploads/icon.jpg)
 
